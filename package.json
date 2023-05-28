@@ -6,7 +6,7 @@
   "scripts": {
     "test": "test",
     "start": "node index.js",
-    "dev-start": "nodemon index.js"
+    "start2": "nodemon ./server.js localhost 8080"
   },
   "repository": {
     "type": "git",
