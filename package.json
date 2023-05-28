@@ -16,5 +16,8 @@
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "nanoid": "^4.0.2"
   }
 }

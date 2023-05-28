@@ -1,2 +1,1 @@
-console.log("test");
-
+const contacts = require("./contacts");
