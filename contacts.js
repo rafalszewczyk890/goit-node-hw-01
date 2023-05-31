@@ -54,7 +54,9 @@ async function addContact(name, email, phone) {
 
   const contactArray = JSON.parse(contactList);
 
-  contactArray.push({ id, name, email, phone });
+  const phoneString = phone.toString();
+
+  contactArray.push({ id, name, email, phoneString });
   const arrayJson = JSON.stringify(contactArray);
   fs.writeFile(contactsPath, arrayJson);
   console.log(`Contact ${name} was added succesfully.`);

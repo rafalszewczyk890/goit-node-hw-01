@@ -6,12 +6,6 @@
     "phone": "(992) 914-3792"
   },
   {
-    "id": "qdggE76Jtbfd9eWJHrssH",
-    "name": "Chaim Lewis",
-    "email": "dui.in@egetlacus.ca",
-    "phone": "(294) 840-6685"
-  },
-  {
     "id": "drsAJ4SHPYqZeG-83QTVW",
     "name": "Kennedy Lane",
     "email": "mattis.Cras@nonenimMauris.net",
@@ -70,5 +64,11 @@
     "name": "rafal sz",
     "email": "rafal.rafal@rafal.com",
     "phone": "555444333"
+  },
+  {
+    "id": "1685554856302",
+    "name": "Mango",
+    "email": "mango@gmail.com",
+    "phoneString": "322-22-22"
   }
 ]
